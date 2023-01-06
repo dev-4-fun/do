@@ -1,0 +1,7 @@
+.exrc
+*.swp
+.*.swp
+tags
+*.dSYM
+
+do
